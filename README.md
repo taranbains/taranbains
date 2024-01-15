@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome to Taran's GitHub Profile! 👋
+
+## 🌱 About Me 🌲
+I am a passionate and results-driven software engineering graduate student with a strong foundation in computer science and data science. 
+Currently pursuing my Master of Engineering in Software Engineering at the University of Calgary, I bring a diverse skill set, including expertise in C++, Java, Python, MATLAB, and database management with MySQL.
+
+📚 Currently pursuing my Master of Engineering with a specialization in Software Engineering.
+💻 I'm currently diving deep into object oriented programming and data structures, as well as machine learning and large-scale data analytics. Additionally, I am exploring front-end and API's independently to augment my skills. 
+
+📬 Feel free to connect with me on [LinkedIn](<https://www.linkedin.com/in/bains-taran/>)!
+
 
 <!--
 **taranbains/taranbains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
